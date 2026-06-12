@@ -42,7 +42,7 @@ The red heat under my ribs went still.
 
 That frightened me more than its laughter.
 
-The bone was smooth from weather. Old. Not hungry. Not kind. It held a chill that did not belong to the wind.
+The bone was smooth from weather. Old. Not hungry. Not kind. It held a chill that did not belong to the wind. My own bones answered it with a quiet recognition I did not want. The cold in them knew this place, or something like it, from before the ship and the wreck. The thought came and went like water under ice.
 
 A memory rose.
 
@@ -119,6 +119,8 @@ Debt.
 Then she slid all three toward me and waited.
 
 I hated her a little for making the world simple. Simple things are traps you can see, which does not make them less traps.
+
+The heat under my ribs had quieted after the bone on the pole. Now it stirred again at the word she did not say but I felt: the old line that once named such debts. The cold in me wanted to answer it. The red wanted to break it. I kept my palm flat on the stone and gave neither of them the win.
 
 I picked up the fish bone.
 
@@ -247,3 +249,5 @@ That was how I learned the second law of the island.
 Hunger starts every bargain.
 
 Debt decides whether it ends.
+
+The cold in my bones had recognized the antler pole and the names that fed the dead. The red under my ribs had wanted to answer with teeth. Both had been held back by a boy who did not yet know his own name was old enough to matter on this shore. The knot she tied felt heavier than it should have.
