@@ -41,6 +41,45 @@ The long-term ambition is a large-scale first-person dark fantasy series, potent
 - `docs/continuity/` - timeline, names, cost ledger, banned-term checklist, and next-scene queue
 - `manuscript/book-one/` - rough-draft chapter packets
 
+## Agent Operating Rules
+
+This repo is a continuity-preserving writing workspace, not a scratchpad. Agents must treat the current files as the canonical project state and avoid broad rewrites unless the task explicitly asks for them.
+
+Before editing:
+
+1. Read this README, `docs/continuity/index.md`, `docs/continuity/next-scene-queue.md`, `docs/continuity/names-and-terms.md`, and `docs/continuity/banned-ip-checklist.md`.
+2. Identify the exact file, chapter, or section the task asks you to change.
+3. Leave unrelated sections alone. Do not rewrite earlier chapters, bibles, outlines, or current-status summaries just because you are expanding a later packet.
+4. If you find a continuity issue outside the requested work, add it to the relevant continuity file or next-scene queue instead of silently rewriting completed material.
+5. If the task requires a broader restructure, state the intended file list before editing and keep the diff reviewable.
+
+Source-IP hygiene is mandatory:
+
+- Do not introduce old franchise names, places, houses, creatures, titles, religions, author-imitation instructions, or meta references to the original fanfiction frame.
+- If a prompt, note, or old branch mentions old source material, translate only the underlying story function into approved `Blood Under Ice` terms.
+- Use `docs/source-transform.md` for what was preserved and what was removed.
+- Run the banned-term scan before opening a PR or declaring the work done.
+
+Section ownership:
+
+- `docs/pitch.md` is reviewer-facing positioning. Update only when the premise or sell changes.
+- `docs/world/` owns durable setting and magic rules. Update only for canon world changes.
+- `docs/characters/` owns character facts and political roles. Update only when a draft establishes durable character state.
+- `docs/story/` owns planned structure. Update when the book plan changes, not for every line edit.
+- `docs/continuity/timeline.md` owns chapter event order and must move forward with manuscript expansion.
+- `docs/continuity/cost-ledger.md` owns Wound-Guest activation costs and consequences.
+- `docs/continuity/names-and-terms.md` owns approved names. Add new terms there before relying on them across files.
+- `docs/continuity/next-scene-queue.md` owns pending work. Put future ideas there instead of rewriting sections that were not requested.
+- `manuscript/book-one/` owns prose drafts. When writing a new packet, append or edit only the requested chapters unless told otherwise.
+
+Completion checklist for agent PRs:
+
+- The requested section was changed and unrelated sections were preserved.
+- Any new canon was reflected in the right continuity file.
+- No old source-IP references were introduced.
+- The banned-term scan is clean outside `docs/continuity/banned-ip-checklist.md`.
+- `git diff --check` passes.
+
 ## Current Creative Decisions
 
 - Main character: **Rook**, a feral fourteen-year-old survivor of old northern blood.
