@@ -42,7 +42,7 @@ The red heat under my ribs went still.
 
 That frightened me more than its laughter.
 
-The bone was smooth from weather. Old. Not hungry. Not kind. It held a chill that did not belong to the wind. My own bones answered it with a quiet recognition I did not want. The cold in them knew this place, or something like it, from before the ship and the wreck. The thought came and went like water under ice.
+The bone was smooth from weather. Old. Not hungry. Not kind. It held a chill that did not belong to the wind. My own bones answered it with a quiet recognition I did not want. The cold in them knew this place, or something like it, from before the ship and the wreck. The thought came and went like water under ice. The last of something had touched what the dead had left to mark the shore. My blood answered before I knew why I should fear the answer.
 
 A memory rose.
 
@@ -120,7 +120,7 @@ Then she slid all three toward me and waited.
 
 I hated her a little for making the world simple. Simple things are traps you can see, which does not make them less traps.
 
-The heat under my ribs had quieted after the bone on the pole. Now it stirred again at the word she did not say but I felt: the old line that once named such debts. The cold in me wanted to answer it. The red wanted to break it. I kept my palm flat on the stone and gave neither of them the win.
+The heat under my ribs had quieted after the bone on the pole. Now it stirred again at the word she did not say but I felt: the old line that once named such debts. The cold in me wanted to answer it. The red wanted to break it. Both knew the knots the dead had used to keep names fed when the isolation had tried to starve the line. I kept my palm flat on the stone and gave neither of them the win.
 
 I picked up the fish bone.
 

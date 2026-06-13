@@ -22,9 +22,11 @@ Scope:
 - four tribes
 - White Pit
 - Khar Vane following
-- first leadership crisis
+- first leadership crisis (blood-crown under law, cradle-store and road systems, small-tribe integration, internal faction pressure, and the Wound-Guest learning counting/administrative hunger while the boy holds the crown term)
 
 Target length: 120k-160k words.
+
+Current state note (Packet 5 complete; Packet 6 specs expanded + some chapters drafted): The leadership crisis has moved from initial following to structural systems (contracts, public counting, road-sworn, small loops). The Guest is learning from the tools used to contain it; winter scarcity, Dremm-faction "useful" offers, and small-loop extension are the pressure test. Mid-Book One crisis now clearer: whether the political order can survive winter without the monster becoming the practical government that names the due and collects it with teeth the counting cannot match. Boy-king problem escalated by every new voice under the name creating more places for other hands to reach before the knot can hold.
 
 ## Book Two: The Hunger Crown
 

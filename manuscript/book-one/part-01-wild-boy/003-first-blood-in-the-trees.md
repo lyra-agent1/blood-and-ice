@@ -102,7 +102,7 @@ Recognition.
 
 The forest answered.
 
-The white bark around the hares' necks was the same color as the cloth the old woman had carried at the beach. The hunters who had taken what the snares caught had left their mark the way the dead left names on the antler pole. Something in the cold of my bones knew the shape of this claim. The red under my ribs knew it too, and liked it.
+The white bark around the hares' necks was the same color as the cloth the old woman had carried at the beach. The hunters who had taken what the snares caught had left their mark the way the dead left names on the antler pole. Something in the cold of my bones knew the shape of this claim. The red under my ribs knew it too, and liked it. The claim was older than the snares. The bones on the shore pole had waited for the blood that carried the old line to return and answer it.
 
 A spear came out of fog and struck Maren in the shoulder.
 

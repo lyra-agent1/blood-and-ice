@@ -156,8 +156,4 @@ I stayed by the racks until the fires burned low. The debt bowl sat on the stone
 
 The storehouse door was barred. The boards were covered. The hunger was still there in the camp, in the young fires, in the knot that had walked away with Dremm.
 
-The Wound-Guest had not taken the body. It had taken a new shape inside the law I was trying to build.
-
-That was the useful part.
-
-That was also the part that frightened me most.
+The heat stayed after they left. Not the old blind push. A slower thing, like it was turning the debt bowl in its mind the way a man turns a new knife. It had liked the bowl traveling to the storehouse door. I kept my hand on the wrapped spear until the red at the edges thinned. My tongue still tasted the place I had bitten during the caller lesson. The three were already walking toward the pass. Dorrik carried the bowl. I stayed by the racks until the fire burned low enough that I could not see the mark in it anymore. The young knot watched from the edge of the light. Some looked at the three like they had been given something. Others looked at the bowl like it was a new kind of answer. The red did not leave. It settled lower, patient, the way it had after the wrapped spear work. It was learning the shape of the living debt.

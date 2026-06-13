@@ -17,7 +17,7 @@ The long target is a full Book One of roughly 140k-180k words. A 500k-word serie
 
 ### Packet 1: Wild Boy And Salt Law
 
-**Status:** rough draft started.
+**Status:** rough draft complete.
 
 Chapters:
 
@@ -40,7 +40,7 @@ Does Rook feel like a feral fourteen-year-old who is smart enough to learn polit
 
 ### Packet 2: Jurisdiction
 
-**Status:** rough draft started.
+**Status:** rough draft complete.
 
 Chapters:
 
@@ -62,7 +62,7 @@ Does the political machine make sense without heavy exposition?
 
 ### Packet 3: The White Pit
 
-**Status:** rough draft started.
+**Status:** rough draft complete.
 
 Chapters:
 
@@ -83,7 +83,7 @@ Is the monster-state powerful enough to sell the myth but costly enough to stay 
 
 ### Packet 4: Blood Crown
 
-**Status:** outline only.
+**Status:** rough draft complete.
 
 Chapters:
 
@@ -108,6 +108,57 @@ Purpose:
 Review question:
 
 Does Rook earn command through choices, or is the story letting awe do too much work?
+
+### Packet 5: After The Crown
+
+**Status:** rough draft complete.
+
+Chapters:
+
+21. Standing Witness
+22. Salt Price
+23. The Missing Ear
+24. Hollow Antler's Third Answer
+25. Cradle Tenth
+26. The Wrapped Spear
+27. Road Teeth
+28. Vessa's Clean Knife
+
+Purpose:
+
+- consolidate the blood-crown terms into daily governance, logistics, and counting
+- turn the cradle tenth into a public system that gives Salt Veyr administrative leverage while exposing scarcity
+- show Fen-Kin training (wrapped spear) as double-edged: it disciplines Rook but teaches the Wound-Guest
+- expose Naim's doubts and Vessa's pivot from containment to indirect fragmentation and quiet knives
+- make the new road and store order a trap as much as a strength; winning public arguments creates quieter, longer enemies
+- establish that Dremm's faction and Khar Vane restraint are ongoing internal pressures
+
+Review question:
+
+Does the manuscript show the political order becoming self-sustaining through contracts and counting, or does it still depend primarily on Rook's personal interventions and the pit myth?
+
+### Packet 6: The Winter Ledger
+
+**Status:** Complete (2026-06-13). ch33-36 drafted and accomplished per detailed specs in docs/continuity/next-scene-queue.md. Manuscript frontier at ch36. See full Book One Scope Decision & Packet 6/7 Expansion Recommendation (ch37-40 crisis turn plan) now recorded in the next-scene-queue under Current Draft Frontier. Packet 6 is the correct and sufficient "systems under strain" dose. No further pure ledger packets. Book One target close: ch40-42.
+
+Chapters:
+
+33. The Cradle Reckoning
+34. Dremm's Offer
+35. The Wrapped Call
+36. The Road's Due
+
+Purpose:
+
+- force the new cradle-store and road-bargain systems to confront material winter scarcity and the claims that follow from "feeding the people"
+- show Dremm's faction (or parallel internal pressure) attempting to convert the earlier "useful sacrifice" idea into a practical policy or action that solves a shortfall for the core followers
+- test the wrapped-spear / Fen caller discipline and old-blood check under real governance stress; demonstrate that the Wound-Guest has learned from the training and can now use openings strategically
+- escalate a bargain with a minor/outlying group or the small-tribe integration from Packet 5; reveal the limits of central authority when promises meet actual winter and competing claims
+- end with Rook making a choice (distribution, punishment, or public discipline) that either deepens his personal cost or publicly tests/blurs the "Wound-Guest is not king" crown term, setting up the larger mid-Book One crisis around whether the system can survive without the monster becoming the government
+
+Review question:
+
+Do the administrative, training, and bargaining structures from prior packets function as real constraints and capabilities under pressure, or does the story fall back on personal heroics and unresolved miracle logic?
 
 ## Chapter Standard
 
@@ -134,4 +185,4 @@ Before each packet:
 
 ## Immediate Next Run
 
-The next autorun should revise chapters 7-10 for maximum clarity and then draft chapters 11-13. That keeps the pit event under review while beginning the aftermath: Khar Vane's camp, Rook's first restraint, and Salt Veyr forcing logistics back into the myth.
+Draft Packet 5 (chapters 29-32: Stores And Splinters) following the detailed "Must accomplish" requirements already recorded in docs/continuity/next-scene-queue.md. After that packet is complete in manuscript, update all continuity files (timeline, cost-ledger, names-and-terms, next-scene-queue) and expand the Packet 6 high-level outline into full per-chapter scene requirements before beginning prose work on 33-36.

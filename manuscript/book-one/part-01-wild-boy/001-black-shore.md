@@ -20,7 +20,7 @@ No knife.
 
 That mattered most.
 
-The stones under my back felt familiar in a way that made no sense. Not like the ship. Not like anything I could remember. The cold in them knew how to hold a body without giving it back easily. My bones recognized the weight of it even if the rest of me did not.
+The stones under my back felt familiar in a way that made no sense. Not like the ship. Not like anything I could remember. The cold in them knew how to hold a body without giving it back easily. My bones recognized the weight of it even if the rest of me did not. The cold itself did not bite as deep as it should have for a boy the sea had just tried to keep. The shore knew the blood that had returned to it. Something in the black stones had been waiting longer than the wreck.
 
 The beach had three bodies besides mine. One had no head. One had no legs below the knee. One was only a piece of someone caught between stones, hand still wearing a copper ring gone green from salt. I watched the hand for a long time. It did not move. The ring was too tight for me to pull free.
 
@@ -77,6 +77,8 @@ Hollowed. Strung with little bones. Knocking together.
 The sound came again.
 
 Bone against bone.
+
+It was not a welcome. It was not a threat. It was the sound of something old that had learned to wait.
 
 The stranger pointed inland a second time.
 
@@ -166,6 +168,8 @@ Then another thought rose under mine, larger and warmer.
 
 Again.
 
+It had waited longer than the wreck. The cold had tried to starve it and failed. The shore had given it back its first taste.
+
 I clenched my teeth until the cracked one screamed. The heat pressed behind my eyes. The young man who had grabbed me was on his knees now, one hand red at his throat, the other reaching for a knife at his belt.
 
 There.
@@ -212,6 +216,6 @@ I looked at the sea. It had already tried to eat me and failed.
 
 I looked at the island.
 
-The island was still deciding.
+The island was still deciding, but the stones under my boots already knew the shape of the blood that walked them. The last of something old and broken had come home, and the cold part of me that remembered how to hold a name under pain did not want the red thing to answer first.
 
 I followed her up the black path with the stolen knife in my hand and the red heat awake under my ribs, laughing softly every time my wound opened.
