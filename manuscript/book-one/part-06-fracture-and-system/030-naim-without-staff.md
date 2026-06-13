@@ -60,7 +60,7 @@ The realization came slow and cold while the pressure still sat under my ribs: t
 
 Naim's face did something complicated. Not a smile. Not a wince. His voice caught once, then steadied the way a man steadies a frame he is afraid to drop. "Because if she wins the meaning of you, she will use the unborn winters to name my line as polluted for having held the rope at the second pit and not pulled hard enough. My sister's child is in one of the frames that has no name cut yet. Winter-late. The mother still touches the wood where the name should go, like the name might appear if she keeps her fingers there long enough. If Vessa closes the paths while the hollows are still open, that name may never be spoken. The child will be counted with the wrong dead."
 
-He was not asking for pity. He was naming a cost the way Maren named fish. I saw the way his hand had gone to his left wrist without thinking, two fingers pressing the skin there before he caught himself and let it fall. The same hand that had steadied the frame was now hiding the sign that might save the child he had not named. That made the "I will not kneel" land harder than any oath I had heard since the crown.
+He was not asking for pity. He was naming a cost the way Maren named fish. I watched his hand move to his left wrist without thinking — two fingers pressing skin, then open palm down before he caught the motion and let it fall. The sign he had not meant to show. The same hand that had steadied the frame now hid the thing that might save the child he had not named. That made the "I will not kneel" land harder than any oath I had heard since the crown.
 
 The Wound-Guest offered a cleaner answer. Take the unstaffed man. He is already open. No ritual wall. The name he carries can be eaten and the doubt with it. The mothers will see and some will break before the next count.
 
@@ -84,7 +84,7 @@ Mercy from a man who has put down his staff is still a knife. It just arrives wi
 
 "Nothing you can give today. Tomorrow, when Mother Harl brings the fasting mothers to sit outside the camp and not eat until you name what you are or feed what you broke, remember that the fast is not the whole law either. The mothers who sit will be the ones whose cradles are already named. The ones whose children are still winter-late will stay back if they can. Speak to the right mother with the right sign and the fast may crack before it starves anyone useful."
 
-He told me the sign. A small thing. Two fingers to the left wrist, then open palm down, the way a woman might set a cradle frame on the ground when she is too tired to carry it upright. The mother who would answer was the one whose sister had been named wrong in a prior rite and whose boat had not come back from the salt runs. "That is the sign the fasting mothers will know. The ones who have not yet cut a name will stay back if they can. The ones whose frames are already named will sit and not eat until you feed what you broke or name what you are. Reach the right one with that sign and the fast may crack before it starves anyone useful to either of us."
+He told me the sign once, crisp. Two fingers to the left wrist, then open palm down, the way a woman might set a cradle frame on the ground when she is too tired to carry it upright. "The mother who will answer is the one whose sister was named wrong in a prior rite and whose boat never came back from the salt runs. That is the sign the fasting mothers know. Reach her with it and the fast may crack before it starves anyone useful to either of us. The ones who have not yet cut a name will stay back if they can."
 
 I memorized it. The Wound-Guest memorized the face Naim would wear when he lied about where he had been.
 
@@ -98,7 +98,7 @@ I pulled a small knot from my belt. One of Maren's counting knots, the kind that
 
 "If the mother answers the sign, bring this back with her mark on it. If she does not, keep it or burn it. I will know what the answer means either way."
 
-The Wound-Guest offered the clean kill image again while the knot lay there: Naim's throat with no staff and no ritual wall, quick and quiet, the doubt eaten before it could travel back to the ridge. I let the pressure climb until my palms were damp and the edges of my sight went thin and red, then I spoke around the iron in my mouth. "Take it or leave it. The choice is yours."
+The Wound-Guest offered the clean kill image again while the knot lay there: Naim's throat with no staff and no ritual wall, quick and quiet, the doubt eaten before it could travel back to the ridge. I counted the exits the way the wrapped-spear lessons had taught me — ridge path, store bar I could drop, knife at my belt I would not draw — and let the pressure climb until my palms were damp and the edges of my sight went thin and red. Then I spoke around the iron in my mouth. "Take it or leave it. The choice is yours."
 
 Naim looked at the knot for a long time. He crouched without taking his eyes off me, picked it up, and tested the weight in his own hand the way I had watched him test the road boy's binding. He did not hold it long. "You are learning how to make debts that do not require blood."
 
