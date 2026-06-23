@@ -6,7 +6,7 @@
 ## Goal
 Transform the current early wild-boy material (part-01-wild-boy/) into a tight, standalone-feeling novella (target 8-15k words / 3-6 short chapters) that can still serve as the opening of Book One.
 
-High prose target: Rothfuss precision (sensory, precise, internal cost) + Pierce Brown visceral (body-first, violent, hungry, political dread even in isolation).
+High prose target: sensory precision (internal cost) + visceral body-first voice (violent, hungry, political dread even in isolation).
 
 ## New Lore Foundation (to plant subtly)
 - Rook is the last surviving heir of **House Rauth**, the old ruling house of the Blackjaw Isles.
