@@ -1,233 +1,227 @@
 <!-- NAV START -->
 **Blood Under Ice** — Chapter 1 of 36
 
- | [📖 Contents](../../README.md) | [Hunger Law](./002-hunger-law.md) →
+[📖 Contents](../../README.md) | [Hunger Law](./002-hunger-law.md) →
 <!-- NAV END -->
 
-# Chapter 1 Sample: Black Shore
+# Chapter 1: Black Shore
 
-The sea gave me back without kindness.
+The sea spits me onto black stone and takes three teeth as payment.
 
-It rolled me onto black stones and left me there with my cheek split open and my mouth full of salt. For a while I thought the stones were teeth. I bit one to be sure. It cracked a corner from my front tooth and taught me the first law of the island.
+My face is split from cheekbone to jaw. Salt in the wound. My left hand won't close. Blood leaves from three places I can count and one I can't, and the one I can't is the one that scares me, because a wound you can't find is a wound that's deeper than you can reach.
 
-Everything here bites back.
+I am fourteen years old. I have been fourteen for six days. The ship is gone. I don't know where I am. I know the sea tried to keep me, and the fact that I'm breathing feels less like survival and more like a mistake the water hasn't corrected yet.
 
-I lay still after that. Still keeps you alive when you do not know who is watching. The waves dragged at my boots. Gulls screamed over me, though they stayed high. Smart birds. They knew the difference between dead and waiting.
+Three bodies share the beach.
 
-My ribs hurt. My left hand would not close. There was blood on my shirt, but old blood dries dark and new blood shines, so I took inventory the way hunger had taught me.
+One has no head. The sea took it the way a lender takes collateral — without interest, without malice. One has no legs below the knee. Something found him in the water and was unimpressed. The third is a hand and part of an arm, still wearing a copper ring gone green from salt.
 
-Old blood at the collar.
+I try to pull the ring free. My fingers slip. The sea reaches up and slaps my wrist against the rock, and I go still.
 
-New blood at the cheek.
+Still is what you learn first when you're small and the world isn't. Still is what saves you when a hand is raised and you don't know if it's coming down. I've been still for most of my fourteen years. It hasn't saved me yet, but I do it anyway because it's the only prayer I know.
 
-New blood under the ribs.
+The cold comes through the stone.
 
-No knife.
+Not weather-cold. Something else. The rock holds cold the way a dead man holds weight — completely, without intention. It presses up through my spine into my teeth, and it has been doing this since before the stone was stone, and it does not care whether I am on it or not. I am incidental. A warm thing that wandered into a cold place that was already ancient when the first fish learned to swim.
 
-That mattered most.
+I'm going to die here.
 
-The stones under my back felt familiar in a way that made no sense. Not like the ship. Not like anything I could remember. The cold in them knew how to hold a body without giving it back easily. My bones recognized the weight of it even if the rest of me did not. The cold itself did not bite as deep as it should have for a boy the sea had just tried to keep. The shore knew the blood that had returned to it. Something in the black stones had been waiting longer than the wreck.
+The thought is small and clean, and I hold it the way you hold a stone in a current — tight, with both hands, because letting go means going under. I've been running from death for three days in open water. Stopping feels like the first kind thing the world has offered me.
 
-The beach had three bodies besides mine. One had no head. One had no legs below the knee. One was only a piece of someone caught between stones, hand still wearing a copper ring gone green from salt. I watched the hand for a long time. It did not move. The ring was too tight for me to pull free.
+Then something moves under my skin.
 
-I tried anyway.
+Not muscle. Not cold. Not anything that belongs in a body made of meat and bone and the ordinary things that make a boy. It uncurls in my chest the way a fist opens around an ember it has been hiding, and warmth pushes outward — into my fingers, my teeth, the soles of my feet. I can't stop it. I don't want to stop it. The warmth eats the cold the way fire eats wood, and I am the wood, and the fire does not care.
 
-My fingers slipped. The sea came in and slapped my wrist against the rock. I hissed and went still again, listening.
+But the warmth feels like being held.
 
-Wind. Water. Gulls. Somewhere above the beach, a knocking sound. Not wood. Bone maybe. Bone against bone.
+Like arms around me in the dark. Like the space behind my mother's ribs where I fit when the world was too loud and too large and too fast. My mother left three years ago, or was taken, or died — I don't know which because no one told me and I was too small to make them tell me — but the body remembers what the mind has lost, and my body remembers her ribs, and the warmth knows this, and the warmth uses this, and I lean into it anyway.
 
-I did not like that sound.
+That is the first terrible thing I do on this island. Not the worst. But the first.
 
-The cliff rose behind me in black shelves, slick with weed and bird filth. No trees near the shore. No smoke that I could see. No voices. The sky was low and iron-colored, pressing the world flat.
+I choose comfort without asking where it comes from. And the thing that gives it to me lets me choose, which means it knows something I don't. And anything that benefits from your ignorance will never be the one to warn you.
 
-I rolled onto my stomach and crawled to the nearest body.
+The warmth settles. Coils. Tucks itself back into whatever space it lives in behind my lungs. It leaves a taste in my mouth — copper, and under the copper, something older. Something that doesn't have a flavor so much as an age. Something that tastes the way the stone under my back feels.
 
-He had been a large man before the sea opened him. The waves had washed his face clean, which made him look peaceful and stupid. The dead should not look peaceful. It gives the living bad ideas.
+I push that thought away because it's too big for me. The thing inside me lets me push it away.
 
-I searched him with my good hand. Belt. Pouch. Wet wool. A bone toggle. No blade. No food.
+That should tell me everything I need to know. It doesn't. I'm fourteen, and I don't speak the language of warnings yet.
 
-I found a strip of dried fish inside his shirt, wrapped in oilskin and tied against his skin like a charm. I smelled it first. My mouth filled so fast it hurt.
+I crawl to the nearest body because the hunger has arrived and the hunger does not care about philosophy.
 
-I ate too quickly and threw half of it back onto the stones.
+He was large before the sea opened him. The waves have washed his face clean, which makes him look peaceful. The dead should not look peaceful. Peace is what the living sell each other to make dying easier to watch. This man died with his eyes open and his mouth shut and the sea closed both for him, and now he looks like a man sleeping, and the lie of it makes me angry in a way I can't afford.
 
-Then I ate that too.
+I search him with my good hand. Belt. Pouch. Wet wool. A bone toggle — smooth, worn sharp at one end by years of use. No blade. No food.
 
-The knocking above the beach stopped.
+Then I find the fish.
 
-I froze with fish paste on my tongue.
+Dried strips wrapped in oilskin, tied against his skin under his shirt like a secret. Like something he was keeping safe. The smell fills my mouth so fast my jaw aches and my stomach clenches like a fist around nothing, around less than nothing, around a hollow that has been hollow for three days.
 
-A shape stood on the cliff shelf, watching me. Human. Fur hood. Long spear. Too far to see the face, close enough to know the spear was pointed down.
+I eat too fast and throw half of it onto the stones.
 
-I did not run. Running tells a hunter what you are.
+I look at the vomited fish on the black rock. I pick it up and eat it again.
 
-I picked up a stone instead.
+The shame of this will live in me longer than any wound I receive on this island. I do not know that yet. I know only the eating, and the eating is the best thing I have ever felt — better than the warmth, better than the cold stopping, better than the fact of being alive.
 
-The figure made a sound. Maybe a laugh. Maybe a word. The wind tore it thin.
+Something watches me eat.
 
-I showed my teeth.
+Not the thing inside me — it is warm and full and quiet now, and that quietness bothers me more than anything it has done so far, because hunger that finishes eating and goes to sleep is hunger that will wake again.
 
-That was all I had then. Teeth, a broken hand, a bleeding side, and the knowledge that if the stranger came down the cliff, one of us would leave less whole than we arrived.
+Something else. Above.
 
-The figure lifted the spear.
+A sound.
 
-Not to throw.
+Not waves. Not gulls. A dry knocking, slow and rhythmic, like bone tapping bone in a room where someone is trying to sleep and cannot.
 
-To point inland.
+I look up.
 
-I looked past the stranger. The cliff path wound upward through split rock. At the top, something hung from a pole. At first I thought it was a banner. Then the wind turned it.
+The cliff rises behind me in black shelves slick with weed and the white filth of ten thousand birds. No trees near the shore. No smoke. No voice. The sky is low and iron-colored, pressing the world flat.
+
+At the top of the cliff, something hangs from a pole.
 
 Antlers.
 
-Hollowed. Strung with little bones. Knocking together.
+Hollowed. Strung with teeth. Not the teeth of any animal I can name — some are small and human-regular, but others are larger, ridged, dark with age, from mouths I cannot fit inside any creature I know. They knock together in the wind, and the sound they make is not random. The teeth are talking to each other in a language that was old when the stone was young, and whatever they are saying, it is about me.
 
-The sound came again.
+My body understands this before my mind does. The hair on my arms stands. My cracked tooth aches. The thing inside my chest — the warmth, the ember, the Red — goes very still, the way a dog goes still when it hears a frequency that humans cannot.
 
-Bone against bone.
+Below the antlers, a shape.
 
-It was not a welcome. It was not a threat. It was the sound of something old that had learned to wait.
+Human. Fur hood. Spear, point down.
 
-The stranger pointed inland a second time.
+Too far to see the face. Close enough to see the spear.
 
-I understood commands. I had been given many. Kneel. Run. Hide. Hush. Hold still. Open your mouth. Do not cry.
+I pick up a stone.
 
-Commands are only sounds people make before they learn whether you are weak enough to obey.
+It's not a weapon. I know it's not a weapon. But the hand needs something to hold or it will shake, and shaking is the kind of thing that tells a hunter what you are.
 
-I stood.
+The shape makes a sound. A laugh or a word. The wind shreds it.
 
-The world tilted. My knees bent. I made them straight again because the stranger was watching. Blood slid warm down my side under the cold shirt.
+I show my teeth.
 
-The stranger called out. More shapes appeared behind him.
+The shape lifts the spear. Not to throw — the point moves away from me, toward the cliff path. To point inland.
 
-Three. No, four.
+More shapes appear behind the first. Three. Four. They come down the cliff path in single file, placed and careful, the way people move who were born on rock and have never trusted anything flat.
 
-The gulls rose higher.
+The first reaches the beach. The hood falls back.
 
-I looked at the dead man at my feet. He had no knife. The sea had taken it or someone had searched him before me. I took the bone toggle from his belt. It was small, smooth, sharpened by wear at one end.
+She is older than I expected. Broad face weathered to the texture of driftwood. Gray braid thick as rope. Her cheeks carry old scars — not fighting scars, which are irregular, defensive. These are symmetrical. Deliberate. Cut to follow the cheekbone on both sides. A language written in flesh that I cannot read but understand instinctively is saying something important about who she is and what she is allowed to do.
 
-Not a weapon.
+She holds the spear the way you hold something that is part of your arm.
 
-Anything is a weapon if the other person does not respect it.
+She looks at the bodies on the beach. Looks at the fish oil on my mouth. Looks at the wound under my ribs — the wound that should have killed me, that has stopped bleeding in a way that wounds do not stop bleeding, not in cold, not in a boy who has been in open water for three days with no food and no warmth and no reason to be alive.
 
-The strangers started down.
+She sees the wound. Her eyes change.
 
-I backed toward the broken rocks where the surf foamed white. Not into the water. Never into water unless the land gives you no other choice. I put my bad hand against my belly and held the bone toggle low in my good fist.
+Not fear. Not surprise. Something else — the look of a woman who has heard a word spoken only in stories and is now seeing it written on a boy's skin.
 
-The first stranger reached the beach.
+She smiles.
 
-She was not a man. I saw that when the hood fell back. Broad face. Gray braid. Cheeks cut with old scars. Her spear had a black point tied on with gut.
+Not kind. Not cruel. The smile of someone who has found a tool and wants to know if it still cuts.
 
-She looked at the bodies. Looked at the fish oil on my mouth. Looked at the blood under my ribs.
+She speaks.
 
-Then she smiled.
+I don't know the words. I know the shape — question, warning, claim. Three things pressed into one sound, the way a smith presses three metals into one blade.
 
-Not kindly. Not cruelly either.
+She is claiming me.
 
-Like a woman who had found a tool on the shore and wanted to know if it was broken.
+Behind her, one of the younger ones laughs and steps forward. He's maybe sixteen. Tall, loose-limbed, walking with the confidence of someone who has never been the smallest thing in a room. He reaches for my collar.
 
-She spoke.
+People who reach for you before they know what you are have already decided what the story is. He has decided I am wreckage. Breakable. His hand closes in my shirt and he pulls, and I go with the pull because going with the pull is faster than fighting it, and the bone toggle — the dead man's toggle, sharpened by years of use — is in my good hand and I put it into the soft place under his jaw.
 
-I did not know the words.
+Not deep.
 
-I knew the shape of them. Question. Warning. Claim.
+Deep enough.
 
-I spat red onto the stones between us.
+He screams. Drops me. Clutches his throat. Blood runs between his fingers, hot in the cold air. He's not dying. He's frightened, and frightened is better than dead, because dead men teach nothing and frightened men teach everyone watching.
 
-Her smile widened.
+The woman with the spear stops smiling.
 
-Behind her, one of the younger ones laughed and came too close.
+The Red stirs behind my ribs.
 
-That saved me.
+Not alarm. Satisfaction. The warmth of a thing that has been waiting for permission and has just received it. It pushes through me — into my hands, my teeth, my eyes — and the beach sharpens. Every sound comes close: gull-wing, wave-suck, the hurt boy choking, the old woman's thumb tightening on her spear shaft. I can smell her. Smoke, seal fat, old leather, old blood. I can smell the fear on the boy. I can smell the copper ring on the dead man's hand, still green, still tight.
 
-People who laugh before touching you always think the story has already chosen an ending.
+The Red purrs.
 
-He reached for my collar. I let him. His hand closed in the cloth. He pulled me forward, and I went with the pull faster than he expected. The bone toggle went into the soft place under his jaw.
+And something worse — a thought rises under mine. Larger. Warmer. Not my thought. Not my voice.
 
-Not deep. Deep enough.
+*Again.*
 
-He screamed and dropped me. I kept the toggle. Blood ran over my fingers, hot in the cold air.
+It wants the boy. It wants me to take the knife at his belt. It wants the knife the way I wanted the fish — without thought, without hesitation, with the absolute certainty of a body that has identified what it needs and will not be talked out of it.
 
-The woman with the spear stopped smiling.
-
-The young one clutched his throat. Not dying. Frightened. That was better. Dead men teach nothing. Frightened men teach everyone watching.
-
-My side opened wider. I felt it. A wet mouth under my ribs.
-
-Heat moved there.
-
-Not fever. Fever wanders. This knew where it wanted to go.
-
-It pushed through me like a second breath, low and red and pleased.
-
-The beach sharpened. Every sound came close: gull-wing, wave-suck, the hurt boy choking, the old woman's thumb tightening on her spear. I could smell her. Smoke, seal fat, old leather, old blood. I could smell all of them.
-
-The heat laughed.
-
-I did not.
-
-Not yet.
-
-The old woman saw something in my face and stepped back.
-
-Good, I thought.
-
-Then another thought rose under mine, larger and warmer.
-
-Again.
-
-It had waited longer than the wreck. The cold had tried to starve it and failed. The shore had given it back its first taste.
-
-I clenched my teeth until the cracked one screamed. The heat pressed behind my eyes. The young man who had grabbed me was on his knees now, one hand red at his throat, the other reaching for a knife at his belt.
+I clench my jaw until the cracked tooth screams. The Red presses behind my eyes. The boy on his knees reaches for his knife.
 
 There.
 
 Knife.
 
-I moved before the old woman could stop me. Not fast like a hero in a song. Fast like a starving thing that has seen food. I kicked the wounded boy in the wrist, took the knife when his fingers opened, and backed away with the blade between us.
+I move before the old woman can stop me. Not fast like a hero — fast like a starving thing that has seen food. My foot hits the boy's wrist. His fingers open. The knife is in my hand and I'm backing away with the blade between us, and the Red laughs through my teeth, and the laugh is not mine.
 
-The heat purred.
+The old woman lifts one hand.
 
-The old woman lifted one hand. The others froze.
+Everyone stops.
 
-She said a word carefully, tapping her chest.
+She looks at me the way she looked at the wound. The same expression — recognition, calculation, the face of a woman deciding what something is worth and whether she can afford to carry it.
 
-"Maren."
-
-Names are bait. But they are also handles. If you know what a thing is called, you can pull it toward you or push it away.
-
-She tapped her chest again.
+She taps her chest.
 
 "Maren."
 
-Then she pointed at me.
+Names are bait. But they are also handles. If you know what a thing is called, you can hold it, or push it away, or put it in a place where it cannot reach you.
 
-I should have lied. A false name is a small door you can close behind you.
+She taps her chest again.
 
-But the heat under my ribs listened.
+"Maren."
 
-It wanted the sound.
+Then she points at me.
 
-I held the knife tighter and gave the only name I had left.
+I should lie. A false name is a small door you can close behind you. But the Red listens behind my ribs, and it wants the sound of a word in the air, any word, and the only name I have left is the one my mother gave me, and giving it away feels like giving away the last piece of her, and the Red knows this, and the Red wants it, and I give it anyway because I am fourteen and I am bleeding and I am standing on a black shore with a stolen knife and the only thing I have left that my mother gave me is a name.
 
 "Rook."
 
-The old woman tasted it silently. Rook. Rook. Then she looked at the blood on my hand, the knife I had stolen, the wounded boy, the bodies, the antlers knocking above us.
+The word comes out broken. Ugly. Small.
 
-She pointed inland again.
+The Red settles behind my ribs, satisfied, and I don't know yet what it just took from me by making me say it, but I will. I will find out. And when I do, it will be the kind of knowledge that does not give itself back.
 
-This time it was not a command.
+Maren hears the name. She tastes it. I see her doing it — rolling the sound around in her mouth the way you roll a stone to see if it's real.
 
-It was an offer with teeth.
+Then she looks at the blood on my hand. The knife I stole. The wounded boy. The bodies on the beach. The antlers knocking above us.
 
-I looked at the sea. It had already tried to eat me and failed.
+She says something to the others. Short. Final.
 
-I looked at the island.
+One of them pulls a cord from his belt — knotted, reed-woven, the color of old bone — and steps toward me.
 
-The island was still deciding, but the stones under my boots already knew the shape of the blood that walked them. The last of something old and broken had come home, and the cold part of me that remembered how to hold a name under pain did not want the red thing to answer first.
+I show the knife.
 
-I followed her up the black path with the stolen knife in my hand and the red heat awake under my ribs, laughing softly every time my wound opened.
+Maren shakes her head. Slowly. The kind of shake that says *this will happen whether you allow it or not, and the allowing is a courtesy I am offering because I am not yet sure what you are.*
 
+The cord goes around my wrist. Not tight. Not cruel. The way you tie something to a boat when you intend to tow it.
+
+Debt.
+
+I don't know the word yet. But my body knows the shape of it — the weight of belonging to someone else, the cord that says *you cost something, and I paid, and you will work until the cost is covered.*
+
+The Red hates the cord. I feel it flinch under my skin, and that — more than anything else, more than the warmth, more than the hunger, more than the voice that said *again* — tells me that Maren is dangerous.
+
+Because the Red is afraid of her.
+
+And anything that can make the thing inside me afraid is something I need to understand very quickly.
+
+The antlers knock above us. Bone on bone on bone.
+
+Maren turns inland. The others fall in behind her. The boy with the bleeding throat glares at me. I glare back. Neither of us means it. We are both too young and too scared to mean anything except *I don't want to die.*
+
+I walk.
+
+The cord tugs. The Red simmers. The antlers talk above the cliff in their old language, saying something about the boy with the blood that came back, the boy who chose warmth without asking its name, the boy who gave away the last thing his mother gave him to a woman with a spear who smiled like a smith examining a blade.
+
+I am fourteen years old.
+
+I have been fourteen for six days.
+
+And the island has already begun.
 
 ---
+
 <!-- NAV START -->
- | [📖 Contents](../../README.md) | [Hunger Law](./002-hunger-law.md) →
+← [Contents](../../README.md) | [📖 Contents](../../README.md) | [Hunger Law](./002-hunger-law.md) →
 <!-- NAV END -->
