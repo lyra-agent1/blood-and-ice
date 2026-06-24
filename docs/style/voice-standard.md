@@ -147,6 +147,15 @@ A line that is beautiful but does nothing is the most dangerous kind of line in 
 - Not a showcase for prose (beauty serves story, not the other way around)
 - Not a grimdark trope checklist (no stock warbands, no stock villains, no "gritty" for its own sake)
 - Not a power fantasy (every gain costs something irreversible)
+- Not dark fantasy (no horror-genre framing). This is **epic fantasy** with visceral literary prose
+
+## What This Book IS
+
+- **Epic fantasy** — secondary world, magic system, tribes, politics, scale
+- **Red Rising engine** — propulsive first-person intensity, emotional gut-punches, rising from nothing
+- **Game of Thrones world** — moral complexity, real consequences, factions that make sense, no one is safe
+- **Kingkiller Chronicle prose** — beautiful, intimate, layered. Magic that feels deep. The gap between myth and man
+- **The series spine:** Beast → Boy → The Thing Between. Every voice choice serves this arc
 
 ---
 

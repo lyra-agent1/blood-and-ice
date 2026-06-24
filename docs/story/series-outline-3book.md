@@ -3,6 +3,8 @@
 **Last updated:** 2026-06-24  
 **Status:** Scaffolding (good enough to write from, not locked stone)  
 **Series spine:** Beast → Boy → The Thing Between  
+**Genre:** Epic fantasy with visceral literary prose  
+**Tonal anchors:** Red Rising urgency · Game of Thrones density · Kingkiller Chronicle craft  
 **POV:** First-person present tense, Rook  
 **Key lore:** Ice power (his family bloodline) + Blood power (the Red) = never before combined. Most magic is gone from the world but has been slowly coming back. The Red hasn't found a host in thousands of years — until Rook.
 

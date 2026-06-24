@@ -1,6 +1,13 @@
 # Voice Guide
 
-This project needs an original voice: brutal first-person lyricism with political clarity and cosmic dread.
+This project needs an original voice: visceral first-person intensity with political clarity, cosmic dread, and prose craft that rewards close reading.
+
+**Tonal anchors — the feel we're chasing:**
+- **Red Rising urgency:** Propulsive. The reader feels every betrayal and victory in their chest. First-person intensity that grabs the throat and doesn't let go.
+- **Game of Thrones density:** Scale, moral complexity, real consequences. Factions with competing interests that make sense. The world is bigger than the protagonist and doesn't care about him.
+- **Kingkiller Chronicle craft:** Beautiful, intimate prose. The gap between the myth and the man. Magic that feels deep and real. Slow-burn mastery — watching someone become extraordinary.
+
+**What this is NOT:** dark fantasy (horror-adjacent). This is epic fantasy with visceral, literary prose. The darkness comes from the world and the cost, not from genre horror.
 
 Do not imitate any named author's sentence patterns. Use the following internal rules instead.
 
@@ -63,35 +70,42 @@ Avoid:
 
 ## Rook's Voice By Stage
 
-### Stage 1: Wild Boy
+### Stage 1: Feral (Book 1, Act 1-2 — Island Alone)
 
-Rook's voice is immediate and suspicious.
+Near-wordless. Body-thinking. Short sentences dominate but not uniformly — wonder and discovery get longer lines. The prose itself is feral: sensory, immediate, no abstraction.
 
 Example direction:
 
 > The beach had three bodies. Two gulls. One knife. I counted the knife first.
 
-He should not sound like a polished adult reflecting from comfort.
+He should not sound like a polished adult reflecting from comfort. He doesn't think in words yet — he thinks in shape, smell, pain, tide.
 
-### Stage 2: Captive
+**Critical evolution:** The feral voice is the foundation, not the whole book. It opens up as Rook opens up. The range:
+- **Ch 1-4:** Near-wordless survival. Short. Physical. Body only.
+- **Ch 5-8:** Sharpening. More sequence, more planning, more predator logic. Sentences gain teeth.
+- **Ch 9-10:** The break. He realizes he's gone beast. The prose cracks open — longer, darker, self-aware for the first time.
+- **Ch 11-14:** Contact with humans. The voice gains range — still physical, but capable of wonder, humor, tenderness. The girl pulls language back into him.
+- **Ch 15-16:** Tightening again. Surveillance, tension, compression. Then the capture breaks it open — one clean human sentence.
 
-Rook begins mapping social power.
+### Stage 2: Captive (Book 2 — The Red)
+
+Rook maps social power. The Red enters. Voice layers: feral base + Red underneath + political awakening.
 
 Example direction:
 
 > The woman with antlers did not raise her voice. That made the men listen harder. I hated her for teaching me that.
 
-### Stage 3: Pit-Survivor
+### Stage 3: Crowned (Book 2 late — Book 3)
 
-Rook becomes aware that witnesses are building a version of him.
+Rook becomes aware that witnesses are building a version of him. The gap between myth and man — Kingkiller territory.
 
 Example direction:
 
 > They did not look at my face. They looked at the blood drying on me, as if it had spoken better than I had.
 
-### Stage 4: Young Leader
+### Stage 4: The Thing Between (Book 3 late)
 
-Rook sees the difference between fear and obedience.
+Rook holds both beast and boy. The voice synthesizes — capable of violence and beauty in the same breath.
 
 Example direction:
 
