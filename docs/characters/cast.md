@@ -122,4 +122,4 @@ For the protagonist, see `protagonist.md` (Rook — feral human boy, fever-immun
 
 ---
 
-*Cross-references:* `protagonist.md` (Rook); `tribal-leaders.md`; series design and the UNSOLVED Red, the Bloodless/Cold duality, the corruption ladder, and the blood-city pit economy per the canon planning doc.
+*Cross-references:* `protagonist.md` (Rook); `../world/the-red-and-the-bloodless.md` and `../world/saqarro-and-the-peoples.md`; the UNSOLVED Red, the Bloodless/Cold duality, the corruption ladder, and the blood-city pit economy.

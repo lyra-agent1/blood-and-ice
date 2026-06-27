@@ -1,4 +1,4 @@
-# Blood Under Ice — Voice Standard
+# Ice and Blood — Voice Standard
 
 > This document is the canonical voice and craft standard for all writing on this book. Every chapter must conform to it. If a chapter violates these rules, it gets revised.
 
@@ -13,12 +13,12 @@ The reader IS Rook. Every sensation is felt now. Every choice is made blind. No 
 **Multiple POVs allowed.** Not every chapter must be Rook. Other characters can carry chapters when:
 - Rook is absent from a scene that matters (political maneuvering between tribes)
 - A scene is more powerful seen from outside Rook (someone watching the Red take over)
-- A character's interiority reveals something the plot needs (Maren calculating, Harvek planning, Vessa's fear)
+- A character's interiority reveals something the plot needs (a slaver weighing his catch; Yara reading the sigil; the seer's dread)
 - It creates dramatic irony (the reader knows something Rook doesn't)
 
 **Secondary POV rules:**
 - Any non-Rook POV is also first-person present tense (consistency of format)
-- Each POV character must have a distinct voice — Maren thinks in calculations, Dremm in hungers, Vessa in old words
+- Each POV character must have a distinct voice — a slaver thinks in prices, Yara in escape-routes, the seer in omens
 - The POV switch must be obvious within the first sentence (named character, their context)
 - Rook should carry at least 70% of the book's chapters — he is the spine
 - The Red never gets its own POV. It is only ever felt from inside someone else

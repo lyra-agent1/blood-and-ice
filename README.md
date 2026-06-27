@@ -37,10 +37,11 @@ the books.
 - `BOOK-ONE.md` — **Book One chapter index** (start here to read)
 - `manuscript/book-one-wild-boy/` — the canonical Book One manuscript (ch00–ch28)
 - `docs/story/series-outline-3book.md` — the trilogy spine + the mythology
-- `docs/world/` — world & magic bible *(being reconciled to the tropical/blood canon)*
-- `docs/characters/` — character bible
+- `docs/story/book-two-outline.md` — Book 2 outline ("The Red and the Bled")
+- `docs/world/` — the canon bible: `the-red-and-the-bloodless.md` + `saqarro-and-the-peoples.md` *(the two frozen docs there are deprecated, banner-marked)*
+- `docs/characters/` — `protagonist.md`, `cast.md`
 - `docs/style/voice-standard.md` — prose & POV rules
-- `docs/continuity/` — timeline, names, ledgers, checklists
+- `docs/continuity/` — frozen-draft dossiers, retained as a **design quarry for Books 2–3** (not current canon — see `QUARRY-NOTE.md`)
 - `archive/blood-under-ice-frozen/` — the **superseded frozen draft** (kept as a design
   quarry for Books 2–3; not current canon — see its `ARCHIVE-NOTE.md`)
 
