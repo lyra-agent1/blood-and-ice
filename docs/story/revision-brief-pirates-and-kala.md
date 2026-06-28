@@ -55,10 +55,11 @@ Replace the **faceless slavers** with a **named pirate crew** — desperate, cha
 - **Book 2 arc:** Cassic knows the pits. He's the crew's survival guide — he teaches them how to eat, how to sleep, how to read the guards, how to stay alive long enough for the count to matter. He's the one who tells Rook: *"You fight like the bottom of the sea. They've never seen anything like you."*
 - **The turn moment:** Cassic recognizes that Rook fights the way Cassic used to — not for blood, but for the people behind him. Cassic gave that up to survive. Seeing it again in someone else gives it back to him.
 
-### **The Crew (background):**
+### **The Crew (supporting cast):**
+- **Lira** — the navigator. Late 20s, sharp-featured, dry wit. Not the only woman on the crew — she made sure of that. She recruited Sable. The best sailor on the ship; Hark trusts her with the heading when he can't trust his own judgment. She's the one who figures out the island is killing them before anyone else — she reads the water, the wind, the way the green smells. In the pits, she becomes the crew's eyes — the one who maps the vertical city, counts guards, finds the weak points. She and Sable are the first two pirates Rook protects in the pits, because they're the smallest and the pit masters put them in the worst tiers.
+- **Sable** — the surgeon. Early 30s, quiet, steady hands, dark humor. Former battlefield medic who went to sea because the pay was better and the patients didn't talk back. She's the one who keeps the crew alive through the island fevers — watching men die one by one, running out of remedies, knowing the green is winning. She's also the first to notice that Rook's wounds close in days. She studies him through the bars of his cage with professional fascination. In the pits, her medical knowledge makes her valuable — the pit masters keep her alive because she can patch fighters. She uses that position to move between levels, carrying messages, medicine, and eventually helping Rook reach the Kala.
 - **Tammo** — the cook. Big, gentle, covered in burn scars. Tells terrible jokes. The crew's morale.
 - **Voss** (not to be confused with Voss-Marr the Vorth rival) — the climber/rigger. Can get up anything. Useful on the island.
-- **Lira** — the navigator. Only woman on the crew. Nobody questions it. She's better than everyone.
 - **2–3 unnamed crew** — die on the island or in the pits. The losses that hurt.
 
 ---
@@ -82,7 +83,7 @@ Replace the **faceless slavers** with a **named pirate crew** — desperate, cha
 Rook watches them. The human-shaped hole wakes — but differently now. These aren't the hands that took him. They're something else. He doesn't know what to make of them. The belonging engine fires: *these are people. My kind. But wrong-shaped.*
 
 **Ch19 — The Camp**
-*Reworked.* Rook observes the pirate camp over days. Through his eyes we see them as *people*: Hark keeping discipline, Dren brooding, Fenn climbing the rigging like a monkey, Cassic sparring with crew, Tammo cooking. They joke. They argue. They have names. They're afraid.
+*Reworked.* Rook observes the pirate camp over days. Through his eyes we see them as *people*: Hark keeping discipline, Dren brooding, Fenn climbing the rigging like a monkey, Cassic sparring with crew, Tammo cooking, Lira reading the weather off the water, Sable wrapping fevers and losing patients one by one. They joke. They argue. They have names. They're afraid. Sable is the one who sees the green taking her crew and can't stop it — the helplessness is worse than the dying.
 
 Rook's fascination isn't warmth — it's the pull of the second mouth. *These are humans. I am human. They are the first humans who don't cage me.* He doesn't approach. But he watches.
 
@@ -159,15 +160,17 @@ The current Book 2 outline has Rook and Marrow in the pits alone, with the bondi
 
 3. **The second bonding is the pirates.** One by one:
    - **Fenn** is the first pirate Rook encounters in the pits. Fenn is terrified — not of the pits, but of Rook. Rook looks at him and sees the boy who left food. He doesn't harm him. Fenn doesn't understand why.
+   - **Sable** is in a medical tier — the pit masters keep her alive because she can patch fighters. She becomes Rook's eyes inside the system: moving between levels, carrying messages, reading the vertical city's anatomy the way she reads wounds. She's the one who tells Rook the Kala is three levels up and still breathing. She's also the one who treats his wounds after pit fights — professional, unsentimental, but starting to care despite herself. The bonding happens through her hands on his injuries: she's patched a hundred fighters and none of them heal like this. She studies him the way she studied him through the cage bars on the ship. She knows what he is before he does.
+   - **Lira** is in a lower tier with Hark — fodder. She's not a fighter, she's a navigator. But she maps the pits the way she maps coastlines: guard rotations, supply routes, the flow of food and fighters between levels. She becomes Rook's strategist — the one who turns his instinct ("go up") into a plan ("here's how"). She and Sable work together: Sable moves between levels, Lira builds the map from what Sable reports. The two women are the infrastructure of Rook's pit climb.
    - **Cassic** is in a fighter tier. He's surviving because he's good. When Rook ends up in the same arena tier (the pit masters love pitting the interesting ones together), Cassic refuses to fight him. The pit masters send something else in. Rook and Cassic fight side by side. The bonding happens through shared violence, not words.
-   - **Hark** is in a lower tier — fodder tier. He's not a fighter. He's a captain. He knows how to hold people together, not how to swing a blade. He's dying slowly. Rook finds him and doesn't know why he saves him. The Kala would. That's enough.
+   - **Hark** is in a lower tier — fodder tier with Lira. He's not a fighter. He's a captain. He knows how to hold people together, not how to swing a blade. He's dying slowly. Rook finds him and doesn't know why he saves him. The Kala would. That's enough.
    - **Dren** is the hardest. He's in a fighter tier and he's winning — the pit masters love him. He doesn't want saving. When Rook reaches him, Dren fights him. Rook beats him and lets him live. Dren breaks.
 
 4. **The Kala is the engine.** Every night in the pit, Rook counts her breaths from three levels up. He can hear her — the wrong beast in the wrong air, the gentling-sound fading. Everything he does in the pits — every alliance, every fight won, every rung climbed — is a step toward her. The pirates follow him because he's going up, and up is the only direction that matters.
 
 5. **The turn:** When Rook finally reaches the Kala's level — mid-Book 2 — she's alive but barely. He gets to her. The pirates help him do it. By the time they reach her, the crew that captured her is the crew that freed her. The irony is the point.
 
-6. **The Kala's recovery** becomes the emotional heart of mid-Book 2. She's in the blood-city now — the wrong climate, the wrong everything. But she has her boy and, inexplicably, the men who chained her are now the men who freed her. She makes the gentling-sound at Hark. He doesn't understand it. He feels it anyway.
+6. **The Kala's recovery** becomes the emotional heart of mid-Book 2. She's in the blood-city now — the wrong climate, the wrong everything. But she has her boy and, inexplicably, the crew who chained her are now the crew who freed her. Sable is the one who keeps the Kala alive — wrong air, wrong food, wrong everything, but a surgeon does what a surgeon does. The Kala makes the gentling-sound at Sable's hands on her skin. Sable doesn't understand it. She feels it anyway. And Lira — who has never not had a heading — finds one: get the Kala out of the city, get them all out, and the boy who won't stop climbing is the only way up.
 
 ---
 
